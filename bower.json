@@ -1,0 +1,21 @@
+{
+  "name": "sebenge",
+  "homepage": "https://github.com/jacquesuys/sebenge",
+  "authors": [
+    "Jacques Uys <jaxuys@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
